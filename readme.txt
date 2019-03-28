@@ -17,9 +17,12 @@ Description
 
 == Installation ==
 
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
+1. Menu id “Main Menu” used to enter menus in the header
+2. install yarn by brew install yarn
+3. Install valley and run it
+4. Pull folder from repo and place it on folder theme
+5. Install ACF on wordpress
+6. import from Custom Field - Tools, and choose file acv.json
 
 == Frequently Asked Questions ==
 
